@@ -1,0 +1,17 @@
+{
+  "name": "hippie-elements",
+  "description": "Hippie Elements Website",
+  "main": "index.html",
+  "authors": [
+    "Afonso Pacifer <afonsopacifer@live.com>"
+  ],
+  "ignore": [
+    "**/.*",
+    "bower_components"
+  ],
+  "license": "https://hippie-elements.github.io/LICENSE.txt",
+  "dependencies": {
+    "github-corner": "^1.0.0",
+    "made-with-heart": "^0.1.1"
+  }
+}
